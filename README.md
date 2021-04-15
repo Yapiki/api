@@ -1,2 +1,2 @@
-# api
-Yapiki public api
+# Yapiki public api
+Future public api for Yapiki marketplace

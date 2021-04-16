@@ -1,2 +1,3 @@
 # Yapiki public api
-Futur public api for Yapiki marketplace
+Future public api for Yapiki marketplace
+More to come !
